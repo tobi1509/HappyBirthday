@@ -1260,7 +1260,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 60%; /* Điều chỉnh vị trí nếu cần */
+    top: 85%; 
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
